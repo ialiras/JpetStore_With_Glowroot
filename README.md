@@ -21,7 +21,7 @@ Pull image and run image as below:
 
 To monitor application host metric run the command: 
 
-`docker exec  - it  <container name> /bin/bash`
+`docker exec  - it  <container ID> /bin/bash`
 
 Launch Application http://localhost:8080/mybatis-jpetstore-6.0.1/actions/Catalog.action ![jpet](https://user-images.githubusercontent.com/10634825/194901885-aeccb103-2508-44b5-ae0d-4945889b30bc.png)
 
