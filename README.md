@@ -6,8 +6,7 @@ Hi All,
 
 I have created a Docker image for the Jpetstore web application along with a Glowroot Java Profiler. For those who are interested in learning about application performance engineering concepts like identifying high response time RCA, JDBC connection pool issues, memory leaks, and high CPU utilisation ,high GC pause time , out of memory issues,thread contention, and blocking & high DB query execution time.
 
-Run the load test using the provided Jmeter JMX script, increase the number of users, and see the Jpetstore application behaviou using [glowroot java profiler](http://localhost:4000) 
-
+Run the load test using the provided Jmeter JMX script, increase the number of users, and see the Jpetstore application behaviour using glowroot java profiler http://localhost:4000 
 
 
 
