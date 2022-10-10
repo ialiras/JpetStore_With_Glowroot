@@ -1,6 +1,4 @@
-# JpetStore_With_Glowroot
-
-JPetStore Instrumentations with Glowroot Profiler in Docker image: 
+# JpetStore Glowroot Docker image
 
 Hi All, 
 
