@@ -23,7 +23,14 @@ Pull image and run image as below:
 
 To monitor application host metric run the command: 
 
-`docker exec  - it  <container name> /bin/bash` 
+`docker exec  - it  <container name> /bin/bash`
+
+Launch Application http://localhost:8080/jpetstore ![jpet](https://user-images.githubusercontent.com/10634825/194901885-aeccb103-2508-44b5-ae0d-4945889b30bc.png)
+
+Launch Glowroot http://localhost:4000 ![glowrrott](https://user-images.githubusercontent.com/10634825/194902433-27a5812c-2c15-4db8-8d09-8644fcfc6645.png)
+
+
+
 
 With the help of this image anyone can learn performance engineering concepts like below, 
 
