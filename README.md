@@ -7,8 +7,8 @@ I have created a Docker image for the Jpetstore web application along with a Glo
 Run the load test using the provided Jmeter JMX script(jpetstore.jmx), increase the number of users, and see the Jpetstore application behaviour using glowroot java profiler http://localhost:4000 
 
 
+![MicrosoftTeams-image](https://user-images.githubusercontent.com/10634825/195361454-3e5e628d-4956-473c-9341-e4c43b949d91.png)
 
- ![glowroot](https://user-images.githubusercontent.com/10634825/194889809-d6afb8b2-1117-4ea8-b5a0-fb86b52901a4.png)
 
 
 ## Installation Steps: 
