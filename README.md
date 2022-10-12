@@ -9,11 +9,11 @@ Run the load test using the provided Jmeter JMX script(jpetstore.jmx), increase 
 
 ![MicrosoftTeams-image](https://user-images.githubusercontent.com/10634825/195361454-3e5e628d-4956-473c-9341-e4c43b949d91.png)
 
-
+# Prerequisite 
+- Internet connection
+- Install docker on window/linux system 
 
 ## Installation Steps: 
-
-Install docker on window/linux system 
 
 Pull image and run image as below: 
 
